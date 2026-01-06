@@ -3,6 +3,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue)
+[![Watch the Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtu.be/rDU3raweREo)
 
 **Resumer** is a modern Android 
 application built with **Jetpack Compose**. It allows users to view and customize resume data in real time with a highly interactive UI. The app features a custom-built 3D design system for color selection and dynamic content formatting.
