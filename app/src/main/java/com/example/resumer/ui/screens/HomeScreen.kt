@@ -67,6 +67,7 @@ fun HomeScreen(
         modifier = Modifier
             .fillMaxSize()
             .background(MaterialTheme.colorScheme.surfaceVariant)
+            .systemBarsPadding()
     ) {
 
         //resume area -top
